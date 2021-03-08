@@ -1,0 +1,13 @@
+body{
+    background-size:cover
+}
+
+.heading{
+    font-size:23px;
+    margin:0px;
+    width:100%;
+    box-shadow: 18px 18px 18px rgb(60, 255, 0, 1);
+}
+
+
+
